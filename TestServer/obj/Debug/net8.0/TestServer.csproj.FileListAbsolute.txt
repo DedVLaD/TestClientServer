@@ -1,0 +1,14 @@
+D:\prog\TestServer\bin\Debug\net8.0\TestServer.exe
+D:\prog\TestServer\bin\Debug\net8.0\TestServer.deps.json
+D:\prog\TestServer\bin\Debug\net8.0\TestServer.runtimeconfig.json
+D:\prog\TestServer\bin\Debug\net8.0\TestServer.dll
+D:\prog\TestServer\bin\Debug\net8.0\TestServer.pdb
+D:\prog\TestServer\obj\Debug\net8.0\TestServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\TestServer\obj\Debug\net8.0\TestServer.AssemblyInfoInputs.cache
+D:\prog\TestServer\obj\Debug\net8.0\TestServer.AssemblyInfo.cs
+D:\prog\TestServer\obj\Debug\net8.0\TestServer.csproj.CoreCompileInputs.cache
+D:\prog\TestServer\obj\Debug\net8.0\TestServer.dll
+D:\prog\TestServer\obj\Debug\net8.0\refint\TestServer.dll
+D:\prog\TestServer\obj\Debug\net8.0\TestServer.pdb
+D:\prog\TestServer\obj\Debug\net8.0\TestServer.genruntimeconfig.cache
+D:\prog\TestServer\obj\Debug\net8.0\ref\TestServer.dll
